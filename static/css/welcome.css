@@ -6,11 +6,13 @@ body {
     position: relative;
 }
 
+/* not in use
 .stil0 {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
+*/
 
 .stil {
     display: flex;
